@@ -13,7 +13,7 @@ The following persons worked on this project
 * Kevin A. Caulfield
 
 ## How to cite
-Pleaser cite the following article if you use the following script: TBP
+Please cite the following article if you use the following script: TBP
 
 ## Requirements
 The function requires [MATLAB](https://www.mathworks.com/products/matlab.html) and [SimNIBS](https://simnibs.github.io/simnibs/build/html/index.html) to run. 
@@ -26,7 +26,7 @@ outcome = EFieldExtraction(pathname, mni_coord, roi_sphere, toplot);
   roi_sphere = size of sphere used for ROI analyses, typically 10mm is used
   toplot = can be either 1 (show plot) or 0 (don't show plot)
 
-To run the pipeline, download the [code](/Code). 
+To run the pipeline, download the [code](/efieldoutcome.m). 
 
 ## License
 This software runs under a GNU General Public License v3.0.
