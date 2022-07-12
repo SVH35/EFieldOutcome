@@ -19,7 +19,7 @@
 % analyzed volumes and EField ratio. 
 
 %%% example
-%outcome = EFieldExtraction('D:\Lab\Sybren\sim_030122', [-52.2, -16.4, 57.8], 10, 1);
+%outcome = EFieldOutcome('D:\Lab\Sybren\sim_030122', [-52.2, -16.4, 57.8], 10, 1);
 
 %% Function
 function outcome = EFieldOutcome(pathname, mni_coord, roi_sphere, toplot)
